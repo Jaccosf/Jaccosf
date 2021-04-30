@@ -1,6 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaccosf&count_private=true&show_icons=true&theme=react)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaccosf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jaccosf/Jaccosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
