@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaccosf&count_private=true&show_icons=true&theme=react&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaccosf&count_private=true&show_icons=true&theme=react)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaccosf)](https://github.com/anuraghazra/github-readme-stats)
  -->
