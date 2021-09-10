@@ -1,7 +1,7 @@
 # Some stuff about me:
 - 🔭 I’m currently working on: Achterhoek-RP
 - 🌱 I’m currently learning: JS, C#
-- 👨🏽‍💻 You can ask me about: SQL, LUA
+- 👨🏽‍💻 You can ask me about: SQL, LUA, NodeJS, HTML, CSS
 - 💬 Ask me about: FiveM development
 - 📫 How to reach me (discord): underscore#9845
 
