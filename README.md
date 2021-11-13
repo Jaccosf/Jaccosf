@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: JS, C#
 - 👨🏽‍💻 You can ask me about: SQL, LUA, NodeJS, HTML, CSS
 - 💬 Ask me about: FiveM development
-- 📫 How to reach me (discord): underscore#9845
+- 📫 How to reach me (discord): Jaccosf#9845
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaccosf&count_private=true&show_icons=true&theme=react)
 
