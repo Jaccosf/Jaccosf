@@ -1,7 +1,7 @@
 # Some stuff about me:
 - 🔭 I’m currently working on: Achterhoek-RP (https://achterhoek-rp.nl)
-- 🌱 I’m currently learning: JS, C#
-- 👨🏽‍💻 You can ask me about: SQL, LUA, NodeJS, HTML, CSS
+- 🌱 I’m currently learning: TypeScript
+- 👨🏽‍💻 You can ask me about: SQL, LUA, JS, HTML, CSS, C#
 - 💬 Ask me about: FiveM development
 - 📫 How to reach me (discord): Jaccosf#9845
 
