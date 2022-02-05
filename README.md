@@ -1,5 +1,4 @@
 # Some stuff about me:
-- 🔭 I’m currently working on: Achterhoek-RP (https://achterhoek-rp.nl)
 - 🌱 I’m currently learning: TypeScript
 - 👨🏽‍💻 You can ask me about: SQL, LUA, JS, HTML, CSS, C#
 - 💬 Ask me about: FiveM development
