@@ -1,5 +1,5 @@
 # Some stuff about me:
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: Python, C++
 - 👨🏽‍💻 You can ask me about: SQL, LUA, JS, HTML, CSS, C#
 - 💬 Ask me about: FiveM development
 - 📫 How to reach me (discord): Jaccosf#9845
